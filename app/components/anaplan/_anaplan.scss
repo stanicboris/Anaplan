@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Arial', sans-serif;
+  background: #fcfbfd;
+  color: #4d5874;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clearfix {
+  clear: both;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+}

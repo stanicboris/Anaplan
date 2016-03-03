@@ -1,0 +1,27 @@
+.starshipsList table {
+  width: 100%;
+  border: 2px solid #ebecf0;
+  border-radius: 10px;
+  background: #FFF;
+  margin-bottom: 20px;
+
+  thead tr:not(:last-child) th {
+    font-weight: bold;
+  }
+
+  thead tr, tbody tr:not(:last-child) {
+    border-bottom: 2px solid #ebecf0;
+  }
+
+  td, th {
+    padding: 10px;
+  }
+
+  td:not(:last-child), th:not(:last-child) {
+    border-right: 2px solid #ebecf0;
+  }
+
+  tbody tr {
+    font-size: 12px;
+  }
+}

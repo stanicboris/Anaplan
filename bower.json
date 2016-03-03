@@ -1,0 +1,23 @@
+{
+  "name": "anaplan",
+  "description": "SWAPI Project -------------",
+  "main": "server.js",
+  "authors": [
+    "Alexandre FRIH <alexandre.frih@epitech.eu>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "Chart.js": "^1.0.2"
+  }
+}

@@ -1,0 +1,16 @@
+.topbar {
+  font-family: 'Arial', sans-serif;
+  font-size: 12px;
+  line-height: 50px;
+  border-bottom: 2px solid #ebecf0;
+  padding: 0 10px 0 10px;
+  background: #FFF;
+  position: fixed;
+  width: 100%;
+  top: 0;
+
+  .topbarLogo {
+    font-size: 20px;
+    font-weight: bold;
+  }
+}
